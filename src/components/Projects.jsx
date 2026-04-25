@@ -7,10 +7,10 @@ const Projects = () => {
       link: "https://github.com/samadrito10/Diet-Chart-Prediction-app",
     },
     {
-      name: "Weather App",
+      name: "MAC-OS",
       description:
-        "A weather application that fetches real-time weather data from a REST API and displays it in an intuitive interface.",
-      link: "https://github.com/samadrito10/Weather-with-API",
+        "A macOS-inspired desktop application with a modern UI and seamless integration.",
+      link: "https://mac-os-zvvw.onrender.com",
     },
   ];
 
@@ -34,7 +34,7 @@ const Projects = () => {
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mt-2">{description}</p>
             <p className="mt-4 text-sm text-purple-600 group-hover:text-purple-800 transition-colors">
-              View on GitHub &rarr;
+              Visit Live Site &rarr;
             </p>
           </a>
         ))}
