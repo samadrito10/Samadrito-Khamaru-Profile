@@ -29,7 +29,7 @@ const ResumeModal = ({ show, onClose }) => {
 
         {/* Resume PDF */}
         <iframe
-          src="/SAMADRITO_KHAMARU_RESUME_.pdf"
+          src="/SAMADRITO_KHAMARU_CV.pdf"
           title="Resume"
           className="w-full h-full"
         ></iframe>

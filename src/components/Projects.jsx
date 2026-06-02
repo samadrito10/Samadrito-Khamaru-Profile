@@ -12,6 +12,12 @@ const Projects = () => {
         "A macOS-inspired desktop application with a modern UI and seamless integration.",
       link: "https://mac-os-zvvw.onrender.com",
     },
+     {
+      name: "ResumeMatch AI (GenAi + FullStack)",
+      description:
+        "Developed a full-stack application that allows users to upload resumes, analyze job descriptions, identify skillgaps, and generate AI-powered interview questions along with ATS-optimized resumes.",
+      link: "https://github.com/samadrito10/GenAI-FullStack-app.git",
+    },
   ];
 
   return (
